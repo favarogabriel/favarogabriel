@@ -1,4 +1,4 @@
-### Hi,  👋
+### Hi 👋
 
 - 🔭 Languages I use: JavaScript and C#
 - 🌱 I’m currently learning more about JavaScript and a little Java too.
