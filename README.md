@@ -1,6 +1,5 @@
 ### Hi 👋
 
-- 🔭 Languages I use: JavaScript and C#
-- 🌱 I’m currently learning more about JavaScript.
-- 📫 How to reach me: drawey#7081 on Discord or "Gabriel Favaro" in LinkedIn
-- ⚡ Fun fact: I never leave my cup without coffee
+I like to develop games and recreate them 🤓
+
+I like to make videos for YouTube showing the entire game development process and the end result 🕹️🎮
