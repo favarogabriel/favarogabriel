@@ -1,6 +1,8 @@
-### Hi 👋
+### Hi, welcome to my GitHub 👋
 
-I like to develop games and recreate them 🤓
 
-I like to make videos for YouTube showing the entire game development process and the end result 🕹️🎮
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+Currently i learning more about web full-stack development, and now i know about these technologies:<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50"/>
